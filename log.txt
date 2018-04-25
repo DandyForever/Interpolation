@@ -1,0 +1,11 @@
+ERROR! "Something happened during making dots"
+File: /home/user/Danchik/C++/Interpolation/main.cpp
+Function: void MakePlot(Vector<double>&)
+Line: 66
+Code: -20
+....
+ERROR! "The interpolation mode is not chosen"
+File: /home/user/Danchik/C++/Interpolation/../vector/my_vector.h
+Function: double Vector<DataT>::operator[](double) [with DataT = double]
+Line: 287
+Code: -15
